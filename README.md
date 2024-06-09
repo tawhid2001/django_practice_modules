@@ -24,3 +24,8 @@ this link contains the visual of the project
 ## Module 18.5 from Phitron
 
 ### Today I completed module 18.5 practiced authentication 
+
+## Module 19.5 from Phitron
+
+### Today I practiced class based view
+
